@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DGPSMeasures</string>
+    <string name="main_activity_tittle">Location</string>
+    <string name="trigger_description">This is a dummy image description</string>
+    <string name="measure_activity_subtittle">Location Aware APP</string>
+    <string name="lat_label">Latitud:</string>
+    <string name="lng_label">Longitud:</string>
+    <string name="ele_label">Elevation:</string>
+    <string name="distance_label">Distancia al aeropuerto:</string>
+    <string name="save_button_text">Guardar Ubicacion</string>
+</resources>
